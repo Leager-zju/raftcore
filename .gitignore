@@ -1,0 +1,5 @@
+/build
+/bin
+/.vscode
+/lib
+# git rm -r --cached dir
